@@ -20,7 +20,7 @@ func main() {
 	sample3 = 1 // we can assign any value after the declaration and update it's value
 	fmt.Println(sample3)
 
-	//short hand of line 7 is
+	//short hand of line 11 is
 	sample4 := 45        //but we can't use this outside the function(globally)
 	fmt.Println(sample4) // output -> 45
 
